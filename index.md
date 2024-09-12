@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-I am an MRes (Master of Research) student in Machine Learning at Imperial College London, supervised by **Dr. Matthieu Komorowski** and **Dr. Guang Yang**. I obtained my B.Eng. degree in Computer Science from The University of Melbourne and an Honours degree in Data Science from The University of Sydney.
+I am an MRes (Master of Research) student in Machine Learning at Imperial College London, supervised by **Dr. Matthieu Komorowski** and **Dr. Guang Yang**. I obtained my B.Sci. degree in Statistic with a minor in Computing from The University of Melbourne and an Honours degree in Data Science from The University of Sydney.
 
 - My current research focuses on applying advanced AI techniques, including:
   - **GANs** and **Generative models**, to **medical imaging**.
