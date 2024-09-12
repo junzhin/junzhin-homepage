@@ -19,6 +19,12 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
 
 ## Education
 
+<img src="/assets/img/header_icon.png" alt="Header Icon" style="float: left; margin-right: 20px;">
+
+
+![Header Icon](/assets/img/header_icon.png)
+
+
 - **Master of Research (MRes)**, Imperial College London, UK _(Sep 2023 - Present)_
   - Major: Artificial Intelligence and Machine Learning
   - Research supervised by **Dr. Guang Yang** and **Dr. Matthieu Komorowski**, focusing on medical imaging and AI.
@@ -32,7 +38,7 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
   - Major: Statistic and Computing 
   - Achieved First Class Honours. 
 
-## Employment, Voluntary Work, and Research Experience
+## Employment and Research Experience
 
 - (Oct 2023 - Present)   **Research Postgraduate** – Imperial College London  
 - (Aug 2022 - Jun 2023)  **Research Intern** – Trustworthy Machine Learning Lab, University of Sydney  
