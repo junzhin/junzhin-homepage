@@ -19,7 +19,7 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
 
 ## Education
 
-<img src="/assets/img/header_icon.png" alt="Header Icon" style="float: left; margin-right: 20px;">
+<img src="/junzhin-homepage/assets/img/header_icon.png" alt="Header Icon" style="float: left; margin-right: 20px;">
 
 
 ![Header Icon](/assets/img/header_icon.png)
