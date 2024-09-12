@@ -81,5 +81,5 @@ Always curious and love experimenting with new ideas.
 
 
 ## Contact
-- Email: [ningjunzhi85@gmail.com](mailto:ningjunzhi85@gmail.com)
-- LinkedIn: [junzhi](https://www.linkedin.com/in/junzhin)
+- [**Email**](mailto:ningjunzhi85@gmail.com)
+- [**LinkedIn**](https://www.linkedin.com/in/junzhin)
