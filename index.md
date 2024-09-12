@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Junzhi Ning
+title: Home
 ---
 
-# Junzhi Ning
 I am an MRes (Master of Research) student in Machine Learning at Imperial College London, supervised by **Dr. Matthieu Komorowski** and **Dr. Guang Yang**. I obtained my B.Eng. degree in Computer Science from The University of Melbourne and an Honours degree in Data Science from The University of Sydney.
 
 - My current research focuses on applying advanced AI techniques, including:
