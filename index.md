@@ -19,10 +19,13 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
 
 ## Education
 
-<img src="/junzhin-homepage/assets/img/header_icon.png" alt="Header Icon" style="float: left; margin-right: 20px;">
 
+# custom laying the image in the html file
+<!-- <img src="/junzhin-homepage/assets/img/header_icon.png" alt="Header Icon" style="float: left; margin-right: 20px;"> -->
 
-![Header Icon](/assets/img/header_icon.png)
+# default way of rending the image in the html through markdown sytnax
+
+<!-- ![Header Icon](/assets/img/header_icon.png) -->
 
 
 - **Master of Research (MRes)**, Imperial College London, UK _(Sep 2023 - Present)_
