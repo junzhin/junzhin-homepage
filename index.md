@@ -20,10 +20,10 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
 ## Education
 
 
-# custom laying the image in the html file
+<!-- # custom laying the image in the html file -->
 <!-- <img src="/junzhin-homepage/assets/img/header_icon.png" alt="Header Icon" style="float: left; margin-right: 20px;"> -->
 
-# default way of rending the image in the html through markdown sytnax
+<!-- # default way of rending the image in the html through markdown sytnax -->
 
 <!-- ![Header Icon](/assets/img/header_icon.png) -->
 
