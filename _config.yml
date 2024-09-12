@@ -3,5 +3,5 @@ logo: /assets/img/optimized_solution.jpg
 description: Portrait of a Man in Quest In pursuit of the unknown, yet satisfied.
 show_downloads: true
 google_analytics:
-# theme: jekyll-theme-minimal
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
+# theme: jekyll-theme-cayman
