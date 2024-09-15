@@ -53,7 +53,7 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
 ## Publications and Research Work
 
 - **ARMUT-LOR: Adaptive Region-aware Masked Unpaired Translation for Lung Opacity Removal in Chest X-rays**  
-  _(Master's Thesis)_ [Thesis](https://drive.google.com/file/d/1Ue34uFvl31JfXWE4U1YgNUjGLe6b0SDd/view?usp=sharing), [Slides](https://drive.google.com/file/d/1Ue34uFvl31JfXWE4U1YgNUjGLe6b0SDd/view?usp=sharing)  
+  _(Master's Thesis)_ [Thesis](https://drive.google.com/file/d/1Ue34uFvl31JfXWE4U1YgNUjGLe6b0SDd/view?usp=sharing)
   
   <img src="/junzhin-homepage/assets/img/imperial.png" alt="ARMUT-LOR" style="float: left; margin-right: 20px; width: 150px;">
   
