@@ -1,4 +1,21 @@
----
----
-
 @import "jekyll-theme-minimal";
+
+/* 在这里添加你的自定义样式规则，覆盖默认主题样式 */
+.wrapper {
+    display: flex;
+    /* 使用弹性布局 */
+    width: 100%;
+    /* 设置页面的总宽度为100% */
+}
+
+header {
+    width: 30%;
+    /* 设置左边区域（header）的宽度 */
+    padding-right: 20px;
+    /* 添加右边内边距以避免内容太靠近右边 */
+}
+
+section {
+    width: 70%;
+    /* 设置右边内容部分（section）的宽度 */
+}
