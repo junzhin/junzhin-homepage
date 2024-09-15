@@ -105,15 +105,19 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
  
 ## Selected Projects and Course Work
 
-- **Multi-class Classification using Text-Vision Fusion Model**  
+- **Multi-class Classification using Text-Vision Fusion Model**  [Link](https://junzhin.github.io/junzhin-homepage/) 
 
     <div> 
     <img src="/junzhin-homepage/assets/img/text_lan_fusion.png" alt="Night-to-Day Image Translation" style="float: left; margin-right: 20px; width: 200px;">
     <div class="text-justified"> 
      Designed a multimodal model integrating EfficientNet for image features and BERT for text features. Conducted experiments on hyperparameters and modules, performing an ablation study of vision and text models, and optimizing learning rate, dropout, and other key factors.  
-  [Link](https://junzhin.github.io/junzhin-homepage/)
+
     <div>
   <div>  
+
+  <div style="clear: both;"></div>
+
+
 - **Multi-class Classification using self-implemented Multilayer Perceptron**  [Code](https://github.com/junzhin/DL_assign1/tree/main),[Report](https://github.com/junzhin/DL_assign1/blob/main/reports/490059823_520576076_ver6_0.pdf) 
   <div> 
     <img src="/junzhin-homepage/assets/img/self_implemented_mlp.png" alt="Night-to-Day Image Translation" style="float: left; margin-right: 20px; width: 200px;">
@@ -122,27 +126,35 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
 
     <div>
   <div> 
+
+  <div style="clear: both;"></div>
+
  
 - **Robustness of Methods for Class-Dependent Label Noise**  [Link](https://junzhin.github.io/junzhin-homepage/)
   <div> 
-    <img src="/junzhin-homepage/assets/img/noise4.png" alt="Night-to-Day Image Translation" style="float: left; margin-right: 20px; width: 100px;">
-    <img src="/junzhin-homepage/assets/img/noise3.png" alt="Night-to-Day Image Translation" style="float: left; margin-right: 20px; width: 100px;">
-    <img src="/junzhin-homepage/assets/img/noise1.png" alt="Night-to-Day Image Translation" style="float: left; margin-right: 20px; width: 100px;">
+    <img src="/junzhin-homepage/assets/img/noise4.png" alt="Night-to-Day Image Translation" style="float: left; margin-right: 20px; width: 200px;">
+    <img src="/junzhin-homepage/assets/img/noise1.png" alt="Night-to-Day Image Translation" style="float: left; margin-right: 20px; width: 200px;">
     <div class="text-justified">  
     Reproduced paradigms of class-dependent label noise using PyTorch, and conducted experiments with forward learning and weighted loss techniques to estimate the flip rate matrix.  
 
     <div>
   <div> 
+
+  <div style="clear: both;"></div>
+
   
-- **Visialisation How did the mobile device market change?**
+- **Visialisation How did the mobile device market change?** [Link](https://junzhin.github.io/junzhin-homepage/) 
   <div> 
-    <img src="/junzhin-homepage/assets/img/va_1.png" alt="Night-to-Day Image Translation" style="float: left; margin-right: 20px; width: 100px;">
+    <img src="/junzhin-homepage/assets/img/va_1.png" alt="Night-to-Day Image Translation" style="float: left; margin-right: 20px; width: 200px;">
     <div class="text-justified">  
-    <img src="/junzhin-homepage/assets/img/va_2.png" alt="Night-to-Day Image Translation" style="float: left; margin-right: 20px; width: 100px;">
+    <img src="/junzhin-homepage/assets/img/va_2.png" alt="Night-to-Day Image Translation" style="float: left; margin-right: 20px; width: 200px;">
     <div class="text-justified">  
   This project visualizes the evolution of the mobile device market from 1989 to 2012 using Tableau. Key steps include data preprocessing, extracting company names, and categorizing device types over time. The visualization highlights market trends, dominant companies, and changes in device technology.
     <div>
   <div>  
+
+  <div style="clear: both;"></div>
+
 - **Rethinking ImageNet Pretraining in Domain Adaptation**  [Link](https://junzhin.github.io/junzhin-homepage/)
   <div> 
     <div class="text-justified">
@@ -150,6 +162,9 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
 
     <div>
   <div> 
+
+  <div style="clear: both;"></div>
+
 
 ## Extra
 
