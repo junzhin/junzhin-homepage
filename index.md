@@ -105,7 +105,8 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
  
 ## Selected Projects and Course Work
 
-- **Multi-class Classification using Text-Vision Fusion Model**  [Link](https://junzhin.github.io/junzhin-homepage/) 
+- **Multi-class Classification using Text-Vision Fusion Model**  
+[Link](https://junzhin.github.io/junzhin-homepage/) 
 
     <div> 
     <img src="/junzhin-homepage/assets/img/text_lan_fusion.png" alt="Night-to-Day Image Translation" style="float: left; margin-right: 20px; width: 200px;">
@@ -118,7 +119,8 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
   <div style="clear: both;"></div>
 
 
-- **Multi-class Classification using self-implemented Multilayer Perceptron**  [Code](https://github.com/junzhin/DL_assign1/tree/main),[Report](https://github.com/junzhin/DL_assign1/blob/main/reports/490059823_520576076_ver6_0.pdf) 
+- **Multi-class Classification using self-implemented Multilayer Perceptron**  
+[Code](https://github.com/junzhin/DL_assign1/tree/main),[Report](https://github.com/junzhin/DL_assign1/blob/main/reports/490059823_520576076_ver6_0.pdf) 
   <div> 
     <img src="/junzhin-homepage/assets/img/self_implemented_mlp.png" alt="Night-to-Day Image Translation" style="float: left; margin-right: 20px; width: 200px;">
     <div class="text-justified"> 
@@ -130,7 +132,8 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
   <div style="clear: both;"></div>
 
  
-- **Robustness of Methods for Class-Dependent Label Noise**  [Link](https://junzhin.github.io/junzhin-homepage/)
+- **Robustness of Methods for Class-Dependent Label Noise** 
+ [Link](https://junzhin.github.io/junzhin-homepage/)
   <div> 
     <img src="/junzhin-homepage/assets/img/noise4.png" alt="Night-to-Day Image Translation" style="float: left; margin-right: 20px; width: 200px;">
     <img src="/junzhin-homepage/assets/img/noise1.png" alt="Night-to-Day Image Translation" style="float: left; margin-right: 20px; width: 200px;">
@@ -143,7 +146,8 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
   <div style="clear: both;"></div>
 
   
-- **Visialisation How did the mobile device market change?** [Link](https://junzhin.github.io/junzhin-homepage/) 
+- **Visialisation How did the mobile device market change?** 
+[Link](https://junzhin.github.io/junzhin-homepage/) 
   <div> 
     <img src="/junzhin-homepage/assets/img/va_1.png" alt="Night-to-Day Image Translation" style="float: left; margin-right: 20px; width: 200px;">
     <div class="text-justified">  
@@ -155,7 +159,8 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
 
   <div style="clear: both;"></div>
 
-- **Rethinking ImageNet Pretraining in Domain Adaptation**  [Link](https://junzhin.github.io/junzhin-homepage/)
+- **Rethinking ImageNet Pretraining in Domain Adaptation**  
+[Link](https://junzhin.github.io/junzhin-homepage/)
   <div> 
     <div class="text-justified">
       Analyzed the impact of ImageNet pretraining on semi-supervised and unsupervised domain adaptation tasks using PyTorch models. Conducted large-scale computations in the cloud, proposing how pre-trained neural networks influence migration learning problems.  
