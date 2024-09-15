@@ -2,6 +2,7 @@
 layout: default
 title: Home
 ---
+## About Me
 
 I am an MRes (Master of Research) student in Machine Learning at Imperial College London, supervised by **Dr. Matthieu Komorowski** and **Dr. Guang Yang**. I obtained my B.Sci. degree in Statistic with a minor in Computing from The University of Melbourne and an Honours degree in Data Science from The University of Sydney.
 
@@ -17,22 +18,22 @@ Feel free to contact me for Chat and Research Opportunities.
 _"Positivity is the essence of progress. In every challenge, I see an opportunity for learning and growth."_
 
 
-# Education
+## Education
 
 
-<!-- # custom laying the image in the html file -->
+<!-- ## custom laying the image in the html file -->
 <!-- <img src="/junzhin-homepage/assets/img/header_icon.png" alt="Header Icon" style="float: left; margin-right: 20px;"> -->
 
-<!-- # default way of rending the image in the html through markdown sytnax -->
+<!-- ## default way of rending the image in the html through markdown sytnax -->
 
 <!-- ![Header Icon](/assets/img/header_icon.png) -->
 
 
-### **Master of Research (MRes)**, Imperial College London, UK _(Sep 2023 - Present)_
+- **Master of Research (MRes)**, Imperial College London, UK _(Sep 2023 - Present)_
   - Major: Artificial Intelligence and Machine Learning
   - Research supervised by **Dr. Guang Yang** and **Dr. Matthieu Komorowski**, focusing on medical imaging and AI.
 
-### **Bachelor of Science (Honours)**, The University of Sydney, Australia _(Aug 2022 - Aug 2023)_
+-  **Bachelor of Science (Honours)**, The University of Sydney, Australia _(Aug 2022 - Aug 2023)_
   - Major: Data Science
   - Achieved First Class Honours with a **University Medal**.
   - Thesis supervised by **Dr. Liu Tongliang** and **Dr. Mingming Gong** jointly.
@@ -41,7 +42,7 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
   - Major: Statistic and Computing
   - Achieved First Class Honours. 
 
-# Employment and Research Experience
+## Employment and Research Experience
 
 - (Oct 2023 - Present)   **Research Graudate Assistant** – Imperial College London  
 - (Aug 2022 - Jun 2023)  **Research Undergraduate Assistant** – Trustworthy Machine Learning Lab, University of Sydney  
@@ -49,9 +50,9 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
 - (Dec 2021 - Jun 2022)  **Research Undergraduate Assistant** – University of Melbourne  
                 
 
-# Publications and Research Work
+## Publications and Research Work
 
-### ARMUT-LOR: Adaptive Region-aware Masked Unpaired Translation for Lung Opacity Removal in Chest X-rays  
+- ARMUT-LOR: Adaptive Region-aware Masked Unpaired Translation for Lung Opacity Removal in Chest X-rays  
   _(Master's Thesis)_ [Thesis](https://drive.google.com/file/d/1Ue34uFvl31JfXWE4U1YgNUjGLe6b0SDd/view?usp=sharing), [Slides](https://drive.google.com/file/d/1Ue34uFvl31JfXWE4U1YgNUjGLe6b0SDd/view?usp=sharing)  
   
   <img src="/junzhin-homepage/assets/img/image-2.png" alt="ARMUT-LOR" style="float: left; margin-right: 20px; width: 150px;">
@@ -80,14 +81,20 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
 - Enhancing Night-to-Day Image Translation with Semantic Prior and Reference Image Guidance  
   _Australasian Database Conference (ADC 2023)_ [Link](https://link.springer.com/chapter/10.1007/978-3-031-47843-7_12), [Slides](https://drive.google.com/file/d/1gfHnrjvkWIF_IKdZ749TUwpAdwDYwy05/view?usp=drive_link)  
   
-  <img src="/junzhin-homepage/assets/img/image.png" alt="Night-to-Day Image Translation" style="float: left; margin-right: 20px; width: 150px;">
+  <div style="overflow: hidden;">
 
-  This project introduces "RefN2D-Guide GAN," a novel method for improving night-to-day image translation by addressing the challenge of mapping images between domains with varying information richness. By incorporating reference images and feature matching loss, our approach enhances the adaptability of the generator's encoder. Additionally, a segmentation module helps preserve semantic details in the translated images without requiring ground truth annotations. This technique ensures better quality in night-to-day translations while maintaining semantic consistency, offering improvements in tasks like autonomous driving and scene understanding.
+    <img src="/junzhin-homepage/assets/img/image.png" alt="Night-to-Day Image Translation" style="float: left; margin-right: 20px; width: 150px;">
+
+    <div>
+      This project introduces "RefN2D-Guide GAN," a novel method for improving night-to-day image translation by addressing the challenge of mapping images between domains with varying information richness. By incorporating reference images and feature matching loss, our approach enhances the adaptability of the generator's encoder. Additionally, a segmentation module helps preserve semantic details in the translated images without requiring ground truth annotations. This technique ensures better quality in night-to-day translations while maintaining semantic consistency, offering improvements in tasks like autonomous driving and scene understanding.
+    </div>
+
+  </div>
   
   <div style="clear: both;"></div>
 
  
-# Selected Projects and Course Work
+## Selected Projects and Course Work
 
 - **Multi-class Classification using Text-Vision Fusion Model**  
   Designed a multimodal model integrating EfficientNet for image features and BERT for text features. Conducted experiments on hyperparameters and modules, performing an ablation study of vision and text models, and optimizing learning rate, dropout, and other key factors.  
@@ -106,13 +113,13 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
   [Link](https://junzhin.github.io/junzhin-homepage/)
    
 
-# About Me
+## Extra
 
 A passionate fan of documentaries. 
 I enjoy strategy games, especially grand strategy games from Paradox Interactive. 
 Always curious and love experimenting with new ideas.  
 
 
-# Contact
+## Contact
 - [**Email**](mailto:ningjunzhi85@gmail.com)
 - [**LinkedIn**](https://www.linkedin.com/in/junzhin)
