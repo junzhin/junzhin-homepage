@@ -2,22 +2,27 @@
 ---
 @import "jekyll-theme-minimal";
 
-/* 在这里添加你的自定义样式规则，覆盖默认主题样式 */
 .wrapper {
     display: flex;
-    /* 使用弹性布局 */
     width: 100%;
-    /* 设置页面的总宽度为100% */
+    /* 保持整体宽度为100% */
+    box-sizing: border-box;
+    /* 确保padding和边框不会影响布局宽度 */
 }
 
 header {
     width: 20%;
-    /* 设置左边区域（header）的宽度 */
     padding-right: 20px;
-    /* 添加右边内边距以避免内容太靠近右边 */
+    box-sizing: border-box;
+    /* 确保内边距不会导致宽度溢出 */
+    flex-shrink: 0;
+    /* 禁止 header 收缩，保持20%的宽度 */
 }
 
 section {
     width: 80%;
-    /* 设置右边内容部分（section）的宽度 */
+    box-sizing: border-box;
+    /* 确保内容区域不会溢出 */
+    flex-shrink: 0;
+    /* 禁止 section 收缩，保持80%的宽度 */
 }
