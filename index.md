@@ -65,7 +65,7 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
   <div style="overflow: hidden;">
     <img src="/junzhin-homepage/assets/img/cxr_lung_opacity.png" alt="Unpaired Translation" style="float: left; margin-right: 20px; width: 150px;">
 
-    </div class="text-justified">
+    <div class="text-justified">
     This project addresses the challenge of diagnosing cardiopulmonary diseases in chest X-rays (CXRs) when lung opacities obscure critical anatomical details. To improve the clarity of these images, we propose a novel unpaired CXR translation framework that converts CXRs with opacities into versions without them, while preserving essential diagnostic features. Our method uses adaptive activation masks to selectively modify opacity-affected regions and aligns the translated images with pre-trained models to ensure clinical relevance. This approach aims to enhance the accuracy of lung border segmentation and lesion detection, improving CXR interpretation in medical practice.
     <div>
   <div>
