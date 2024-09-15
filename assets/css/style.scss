@@ -1,4 +1,7 @@
 ---
+---
+@import "jekyll-theme-minimal";
+
 /* 在这里添加你的自定义样式规则，覆盖默认主题样式 */
 .wrapper {
     display: flex;
@@ -18,6 +21,3 @@ section {
     width: 80%;
     /* 设置右边内容部分（section）的宽度 */
 }
----
-
-@import "jekyll-theme-minimal";
