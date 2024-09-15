@@ -21,6 +21,6 @@
 
             document.addEventListener("touchstart", gestureStart, false);
             document.addEventListener("touchend", gestureEnd, false); 
-            document.addEventListener("contextmenu", disableRightClick, false);
+            document.addEventListener('contextmenu', event => event.preventDefault());
         }
     })(document);
