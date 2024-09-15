@@ -62,20 +62,27 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
   _(Under Review)_  [Graphical Abstract](https://drive.google.com/file/d/1337JIJPOp26r9chK91QP5FJkll67aT7-/view?usp=drive_link)  
   
   <img src="/junzhin-homepage/assets/img/image-3.png" alt="Unpaired Translation" style="float: left; margin-right: 20px; width: 150px;">
-  
+
+  This project addresses the challenge of diagnosing cardiopulmonary diseases in chest X-rays (CXRs) when lung opacities obscure critical anatomical details. To improve the clarity of these images, we propose a novel unpaired CXR translation framework that converts CXRs with opacities into versions without them, while preserving essential diagnostic features. Our method uses adaptive activation masks to selectively modify opacity-affected regions and aligns the translated images with pre-trained models to ensure clinical relevance. This approach aims to enhance the accuracy of lung border segmentation and lesion detection, improving CXR interpretation in medical practice.
+
   <div style="clear: both;"></div>
+
 
 - Deep Generative Models Unveil Patterns in Medical Images Through Vision- “Language” Conditioning  
   _(Workshop Submission Under Review)_ [Code](https://anonymous.4open.science/r/3D-Mask2CT_MedImaging-8C75)  
   
   <img src="/junzhin-homepage/assets/img/image-1.png" alt="Deep Generative Models" style="float: left; margin-right: 20px; width: 150px;">
   
+  This project explores how deep generative models can go beyond traditional data augmentation in medical imaging by uncovering and demonstrating clinical patterns within medical images. By integrating clinical data and segmentation masks, we guide the image synthesis process, transforming tabular clinical data into textual descriptions for easier interpretation. Our approach leverages large pre-trained vision-language models to capture relationships between clinical information and images, enabling more precise visualization of complex conditions. This method, applicable to both GAN-based and diffusion models, offers new potential for early detection and visualization of subtle clinical attributes in medical images.
+
   <div style="clear: both;"></div>
 
 - Enhancing Night-to-Day Image Translation with Semantic Prior and Reference Image Guidance  
   _Australasian Database Conference (ADC 2023)_ [Link](https://link.springer.com/chapter/10.1007/978-3-031-47843-7_12), [Slides](https://drive.google.com/file/d/1gfHnrjvkWIF_IKdZ749TUwpAdwDYwy05/view?usp=drive_link)  
   
   <img src="/junzhin-homepage/assets/img/image.png" alt="Night-to-Day Image Translation" style="float: left; margin-right: 20px; width: 150px;">
+
+  This project introduces "RefN2D-Guide GAN," a novel method for improving night-to-day image translation by addressing the challenge of mapping images between domains with varying information richness. By incorporating reference images and feature matching loss, our approach enhances the adaptability of the generator's encoder. Additionally, a segmentation module helps preserve semantic details in the translated images without requiring ground truth annotations. This technique ensures better quality in night-to-day translations while maintaining semantic consistency, offering improvements in tasks like autonomous driving and scene understanding.
   
   <div style="clear: both;"></div>
 
