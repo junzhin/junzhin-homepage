@@ -38,31 +38,42 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
   - Thesis supervised by **Dr. Liu Tongliang** and **Dr. Mingming Gong** jointly.
 
 - **Bachelor of Science**, The University of Melbourne, Australia _(Feb 2019 - Jul 2022)_
-  - Major: Statistic and Computing 
+  - Major: Statistic and Computing
   - Achieved First Class Honours. 
 
 ## Employment and Research Experience
 
-- (Oct 2023 - Present)   **Research Postgraduate** – Imperial College London  
-- (Aug 2022 - Jun 2023)  **Research Intern** – Trustworthy Machine Learning Lab, University of Sydney  
-- (Nov 2022 - Jan 2023)  **Software Intern** – Guangzhou Junrui Kang Biotechnology  
-- (Dec 2021 - Jun 2022)  **Junior Research Assistant** – University of Melbourne  
+- (Oct 2023 - Present)   **Research Graudate Assistant** – Imperial College London  
+- (Aug 2022 - Jun 2023)  **Research Undergraduate Assistant** – Trustworthy Machine Learning Lab, University of Sydney  
+- (Nov 2022 - Jan 2023)  **Software Engineering Intern** – Guangzhou Junrui Kang Biotechnology  
+- (Dec 2021 - Jun 2022)  **Research Undergraduate Assistant** – University of Melbourne  
                 
-
 
 ## Publications and Research Work
 
 - ARMUT-LOR: Adaptive Region-aware Masked Unpaired Translation for Lung Opacity Removal in Chest X-rays  
   _(Master's Thesis)_ [Thesis](https://drive.google.com/file/d/1Ue34uFvl31JfXWE4U1YgNUjGLe6b0SDd/view?usp=sharing), [Slides](https://drive.google.com/file/d/1Ue34uFvl31JfXWE4U1YgNUjGLe6b0SDd/view?usp=sharing)  
+  
+  <img src="/junzhin-homepage/assets/img/image-2.png" alt="ARMUT-LOR" style="float: left; margin-right: 20px; width: 300px;">
 
 - Unpaired Translation of Chest X-ray Images for Lung Opacity Diagnosis via Adaptive Activation Masks  
-  _(Under Review)_ [Link](https://junzhin.github.io/junzhin-homepage/)
+  _(Under Review)_  [Graphical Abstract](https://drive.google.com/file/d/1337JIJPOp26r9chK91QP5FJkll67aT7-/view?usp=drive_link)  
 
-- Enhancing Night-to-Day Image Translation with Semantic Prior and Reference Image Guidance
-  _Australasian Database Conference (ADC 2023)_ [Link](https://link.springer.com/chapter/10.1007/978-3-031-47843-7_12)
+  <img src="/junzhin-homepage/assets/img/image-3.png" alt="Unpaired Translation" style="float: left; margin-right: 20px; width: 300px;">
+
+- Deep Generative Models Unveil Patterns in Medical Images Through Vision- “Language” Conditioning  
+  _(Workshop Submission Under Review)_ [Code](https://anonymous.4open.science/r/3D-Mask2CT_MedImaging-8C75)  
+
+  <img src="/junzhin-homepage/assets/img/image-1.png" alt="Deep Generative Models" style="float: left; margin-right: 20px; width: 300px;">
+
+- Enhancing Night-to-Day Image Translation with Semantic Prior and Reference Image Guidance  
+  _Australasian Database Conference (ADC 2023)_ [Link](https://link.springer.com/chapter/10.1007/978-3-031-47843-7_12), [Slides](https://drive.google.com/file/d/1gfHnrjvkWIF_IKdZ749TUwpAdwDYwy05/view?usp=drive_link) 
+
+  <img src="/junzhin-homepage/assets/img/image.png" alt="Night-to-Day Image Translation" style="float: left; margin-right: 20px; width: 300px;">
+
  
  
-## Selected Projects
+## Selected Projects and Course Work
 
 - **Multi-class Classification using Text-Vision Fusion Model**  
   Designed a multimodal model integrating EfficientNet for image features and BERT for text features. Conducted experiments on hyperparameters and modules, performing an ablation study of vision and text models, and optimizing learning rate, dropout, and other key factors.  
