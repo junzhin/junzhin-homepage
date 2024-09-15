@@ -16,8 +16,9 @@
             gestureEnd = function() {
                 initialize();
             };
-
-
+            disableRightClick = function (event) {
+                event.preventDefault(); // 阻止右键菜单的默认行为
+            };
         if (navigator.userAgent.match(/iPhone/i)) {
             initialize();
 
