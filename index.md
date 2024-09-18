@@ -8,7 +8,8 @@ I am an MRes (Master of Research) student in Machine Learning at Imperial Colleg
 
 - My current research focuses on applying advanced AI techniques, including:
   - **GANs** and **Generative models**, to **medical imaging**.
-  - **Medical data synthesis** and **CXR image translation**.
+  - **Medical data Synthesis** 
+  -  **CXR image translation**.
 
 **I am actively seeking PhD and RA opportunities.**
 
@@ -50,7 +51,7 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
 - (Dec 2021 - Jun 2022)  **Research Undergraduate Assistant** – University of Melbourne  
                 
 
-## Publications and Research Work
+## Selected Publications and Research Work
 
 - **ARMUT-LOR: Adaptive Region-aware Masked Unpaired Translation for Lung Opacity Removal in Chest X-rays**  
   _(Master's Thesis)_ [Thesis](https://drive.google.com/file/d/1Ue34uFvl31JfXWE4U1YgNUjGLe6b0SDd/view?usp=sharing)
@@ -173,9 +174,10 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
 
 ## Extra
 
-A passionate fan of documentaries. 
-I enjoy strategy games, especially grand strategy games from Paradox Interactive. 
-Always curious and love experimenting with new ideas.  
+A passionate fan of documentaries.
+I enjoy strategy games, especially grand strategy games from Paradox Interactive.
+I like playing table tennis and practicing calligraphy.
+Always curious and love experimenting with new ideas. 
 
 
 ## Contact
