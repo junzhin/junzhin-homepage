@@ -106,7 +106,7 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
 ## Selected Projects and Course Work
 
 - **Multi-class Classification using Text-Vision Fusion Model**  
-[Report](https://drive.google.com/file/d/18U67_H5nPL6BjajxfbX34E5AqhIBEl3S/view?usp=sharing) [Poster](https://drive.google.com/file/d/1oYXzy0yNNpW3BrtD8QGXR1eBkmAVe_2B/view?usp=drive_link) 
+[Report](https://drive.google.com/file/d/18U67_H5nPL6BjajxfbX34E5AqhIBEl3S/view?usp=sharing), [Poster](https://drive.google.com/file/d/1oYXzy0yNNpW3BrtD8QGXR1eBkmAVe_2B/view?usp=drive_link) 
 
     <div> 
     <img src="/junzhin-homepage/assets/img/text_lan_fusion.png" alt="Night-to-Day Image Translation" style="float: left; margin-right: 20px; width: 200px;">
@@ -133,7 +133,7 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
 
  
 - **Robustness of Methods for Class-Dependent Label Noise** 
- [Link](https://junzhin.github.io/junzhin-homepage/)
+ [Report](https://junzhin.github.io/junzhin-homepage/)
   <div> 
     <img src="/junzhin-homepage/assets/img/noise4.png" alt="Night-to-Day Image Translation" style="float: left; margin-right: 20px; width: 200px;">
     <img src="/junzhin-homepage/assets/img/noise1.png" alt="Night-to-Day Image Translation" style="float: left; margin-right: 20px; width: 200px;">
