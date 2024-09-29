@@ -45,7 +45,7 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
 
 ## Employment and Research Experience
 
-- (Oct 2023 - Present)   **Research Graudate Assistant** – Imperial College London  
+- (Oct 2023 - Oct 2024)   **Research Graudate Assistant** – Imperial College London  
 - (Aug 2022 - Jun 2023)  **Research Undergraduate Assistant** – Trustworthy Machine Learning Lab, University of Sydney  
 - (Nov 2022 - Jan 2023)  **Software Engineering Intern** – Guangzhou Junrui Kang Biotechnology  
 - (Dec 2021 - Jun 2022)  **Research Undergraduate Assistant** – University of Melbourne  
@@ -60,7 +60,7 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
   
   <div style="clear: both;"></div>
 
-- **Unpaired Translation of Chest X-ray Images for Lung Opacity Diagnosis via Adaptive Activation Mask**s**  
+- **Unpaired Translation of Chest X-ray Images for Lung Opacity Diagnosis via Adaptive Activation Mask**  
   _(Under Review)_  [Graphical Abstract](https://drive.google.com/file/d/1337JIJPOp26r9chK91QP5FJkll67aT7-/view?usp=drive_link)  
   
   <div style="overflow: hidden;">
