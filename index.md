@@ -52,6 +52,19 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
 
 ## Selected Publications and Research Work
 
+- **UNVEILING THE CAPABILITIES OF LATENT DIFFUSION MODELS FOR CLASSIFICATION OF LUNG DISEASES IN CHEST X-RAYS**  
+  _(Under Review)_ ISBI 2025 [Paper](https://junzhin.github.io/junzhin-homepage/)
+  
+  <div style="overflow: hidden;">
+    <img src="/junzhin-homepage/assets/img/latent_diffusion_cxr.png" alt="Latent Diffusion Models for CXR Classification" style="float: left; margin-right: 20px; width: 150px;">
+    
+    <div class="text-justified">
+      Diffusion models have demonstrated a remarkable ability to synthesize Chest X-Ray (CXR) images, particularly by generating high-quality samples to address the scarcity and imbalance of annotated CXRs. However, while they excel in sample generation, leveraging their discriminative capabilities for disease classification remains a challenge. This project investigates an approach that utilizes latent conditional diffusion models, conditioned on corresponding radiology reports, to classify lung disease patterns observed in CXRs. Specifically, a pre-trained latent conditional diffusion model is employed to predict noise estimates for a noisy input lung image under different disease conditions. By comparing the noise estimation errors associated with various class prompts, the most probable classification is determined based on minimal error. This method not only facilitates effective classification but also enhances the interpretability of the generative model during training. Experimental results demonstrate that the diffusion-based classifier achieves zero-shot classification performance comparable to existing models, with the regions identified by the model corresponding to actual lesion areas in CXRs.
+    </div>
+  </div>
+  
+  <div style="clear: both;"></div>
+
 - **ARMUT-LOR: Adaptive Region-aware Masked Unpaired Translation for Lung Opacity Removal in Chest X-rays**  
   _(Master's Thesis)_ [Thesis](https://drive.google.com/file/d/1Ue34uFvl31JfXWE4U1YgNUjGLe6b0SDd/view?usp=sharing)
   
@@ -91,7 +104,7 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
   _Australasian Database Conference (ADC 2023)_ [Link](https://link.springer.com/chapter/10.1007/978-3-031-47843-7_12), [Slides](https://drive.google.com/file/d/1gfHnrjvkWIF_IKdZ749TUwpAdwDYwy05/view?usp=drive_link)  
   
   <div style="overflow: hidden;">
-
+  
     <img src="/junzhin-homepage/assets/img/semantic.png" alt="Night-to-Day Image Translation" style="float: left; margin-right: 20px; width: 150px;">
 
     <div class="text-justified">
@@ -104,6 +117,7 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
 
  
 ## Selected Projects and Course Work
+
 
 - **Multi-class Classification using Text-Vision Fusion Model**  
 [Report](https://drive.google.com/file/d/18U67_H5nPL6BjajxfbX34E5AqhIBEl3S/view?usp=sharing), [Poster](https://drive.google.com/file/d/1oYXzy0yNNpW3BrtD8QGXR1eBkmAVe_2B/view?usp=drive_link) 
