@@ -7,9 +7,9 @@ title: Home
 I am an MRes (Master of Research) student in Machine Learning at Imperial College London, supervised by [**Dr. Matthieu Komorowski**](https://www.linkedin.com/in/matthieukomorowski/) and [**Dr. Guang Yang**](https://www.linkedin.com/in/gyangmedia/). I obtained my B.Sci. degree in Statistic with a minor in Computing from The University of Melbourne and an Honours degree in Data Science from The University of Sydney.
 
 - My current research focuses on applying advanced AI techniques, including:
-  - **GANs** and **Generative models**, to **medical imaging**.
+  - **GANs** and **Diffusion Generative models**, to **medical imaging**.
   - **Medical data Synthesis** 
-  -  **CXR image translation**.
+  -  **CXR image translation and Computer-aid Medical Image Analysis**.
 
 **I am actively seeking PhD and RA opportunities.**
 
