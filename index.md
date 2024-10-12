@@ -53,7 +53,7 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
 ## Selected Publications and Research Work
 
 - **UNVEILING THE CAPABILITIES OF LATENT DIFFUSION MODELS FOR CLASSIFICATION OF LUNG DISEASES IN CHEST X-RAYS**  
-  _(Under Review)_ ISBI 2025 [Paper](https://junzhin.github.io/junzhin-homepage/)
+  _(Submission Under Review)_ ISBI 2025 [Paper](https://junzhin.github.io/junzhin-homepage/)
   
   <div style="overflow: hidden;">
     <img src="/junzhin-homepage/assets/img/latent_diffusion_cxr.png" alt="Latent Diffusion Models for CXR Classification" style="float: left; margin-right: 20px; width: 150px;">
@@ -88,7 +88,7 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
 
 
 - **Deep Generative Models Unveil Patterns in Medical Images Through Vision- “Language” Conditioning**  
-  _(Workshop Submission Under Review)_ [Code](https://anonymous.4open.science/r/3D-Mask2CT_MedImaging-8C75)  
+  _AIM-FM Workshop (NeurIPS'24)_ [Code](https://anonymous.4open.science/r/3D-Mask2CT_MedImaging-8C75)  
   
   <div style="overflow: hidden;">
     <img src="/junzhin-homepage/assets/img/mask2ct.png" alt="Deep Generative Models" style="float: left; margin-right: 20px; width: 150px;">
