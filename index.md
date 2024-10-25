@@ -29,7 +29,7 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
 
 <!-- ![Header Icon](/assets/img/header_icon.png) -->
 
-- **Master of Research (MRes)**, Imperial College London, UK _(Sep 2023 - Oct)_
+- **Master of Research (MRes)**, Imperial College London, UK _(Sep 2023 - Oct 2024)_
   - Major: Artificial Intelligence and Machine Learning (Grade: Distinction - First-Class Honours)
   - Research supervised by **Dr. Guang Yang** and **Dr. Matthieu Komorowski**, focusing on medical imaging and AI.
 
