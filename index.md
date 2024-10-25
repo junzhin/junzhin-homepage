@@ -88,7 +88,7 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
 
 
 - **Deep Generative Models Unveil Patterns in Medical Images Through Vision- “Language” Conditioning**  
-  _AIM-FM Workshop (NeurIPS'24)_ [Code](https://anonymous.4open.science/r/3D-Mask2CT_MedImaging-8C75) [Paper](http://arxiv.org/abs/2410.13823)
+  _AIM-FM Workshop (NeurIPS'24)_ [Code](https://github.com/junzhin/DGM-VLC) [Paper](http://arxiv.org/abs/2410.13823)
   
   <div style="overflow: hidden;">
     <img src="/junzhin-homepage/assets/img/mask2ct.png" alt="Deep Generative Models" style="float: left; margin-right: 20px; width: 150px;">
