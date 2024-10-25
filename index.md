@@ -30,16 +30,16 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
 <!-- ![Header Icon](/assets/img/header_icon.png) -->
 
 - **Master of Research (MRes)**, Imperial College London, UK _(Sep 2023 - Oct)_
-  - Major: Artificial Intelligence and Machine Learning (Grade: Distinction: First-Class Honours)
+  - Major: Artificial Intelligence and Machine Learning (Grade: Distinction - First-Class Honours)
   - Research supervised by **Dr. Guang Yang** and **Dr. Matthieu Komorowski**, focusing on medical imaging and AI.
 
 - **Bachelor of Science (Honours)**, The University of Sydney, Australia _(Aug 2022 - Aug 2023)_
-  - Major: Data Science (Overall WAM 89.5 with university medal:First-Class Honours ). 
+  - Major: Data Science (Overall WAM 89.5 with university medal: First-Class Honours). 
   - Achieved First Class Honours with a **University Medal**.
   - Thesis supervised by **Dr. Liu Tongliang** and **Dr. Mingming Gong** jointly.
 
 - **Bachelor of Science**, The University of Melbourne, Australia _(Feb 2019 - Jul 2022)_
-  - Major: Statistics and Computing (Overall WAM: 86.8/First Class Honours)
+  - Major: Statistics and Computing (Overall WAM: 86.8/First-Class Honours)
   - Achieved First Class Honours.
 
 ## Employment and Research Experience
