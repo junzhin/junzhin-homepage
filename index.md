@@ -6,6 +6,7 @@ title: Home
 
 I am an MRes (Master of Research) student in Machine Learning at Imperial College London, supervised by [**Dr. Matthieu Komorowski**](https://www.linkedin.com/in/matthieukomorowski/) and [**Dr. Guang Yang**](https://www.linkedin.com/in/gyangmedia/). I obtained my B.Sci. degree in Statistic with a minor in Computing from The University of Melbourne and an Honours degree in Data Science from The University of Sydney.
 
+
 - My current research focuses on applying advanced AI techniques, including:
   - **GANs** and **Diffusion Generative models**, to **medical imaging**.
   - **Medical data Synthesis** 
@@ -50,7 +51,7 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
 - (Dec 2021 - Jun 2022) **Research Undergraduate Assistant** – University of Melbourne
                 
 
-## Selected Publications and Research Work
+## Selected Publication and Research Work
 
 - **UNVEILING THE CAPABILITIES OF LATENT DIFFUSION MODELS FOR CLASSIFICATION OF LUNG DISEASES IN CHEST X-RAYS**  
   _(Submission Under Review)_ ISBI 2025 [Paper](https://junzhin.github.io/junzhin-homepage/)
