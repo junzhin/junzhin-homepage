@@ -200,3 +200,5 @@ Always curious and love experimenting with new ideas.
 ## Contact
 - [**Email**](mailto:ningjunzhi85@gmail.com)
 - [**LinkedIn**](https://www.linkedin.com/in/junzhin)
+- [**Scholar**](https://scholar.google.com/citations?hl=en&user=-yPon1YAAAAJ)
+
