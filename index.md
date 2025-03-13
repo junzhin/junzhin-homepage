@@ -112,7 +112,6 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
     This project explores how deep generative models can go beyond traditional data augmentation in medical imaging by uncovering and demonstrating clinical patterns within medical images. By integrating clinical data and segmentation masks, we guide the image synthesis process, transforming tabular clinical data into textual descriptions for easier interpretation. Our approach leverages large pre-trained vision-language models to capture relationships between clinical information and images, enabling more precise visualization of complex conditions. This method, applicable to both GAN-based and diffusion models, offers new potential for early detection and visualization of subtle clinical attributes in medical images.
     <div>
   <div> 
-The guys
 
   <div style="clear: both;"></div>
 
