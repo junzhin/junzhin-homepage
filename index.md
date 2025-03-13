@@ -49,9 +49,24 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
 - (Aug 2022 - Jun 2023) **Research Undergraduate Assistant** – Trustworthy Machine Learning Lab, University of Sydney
 - (Nov 2022 - Jan 2023) **Software Engineering Intern** – Guangzhou Junrui Kang Biotechnology
 - (Dec 2021 - Jun 2022) **Research Undergraduate Assistant** – University of Melbourne
-                
+
+
+
 
 ## Selected Publication and Research Work
+
+- **RetinaLogos: Fine-Grained Synthesis of High-Resolution Retinal Images Through Captions**  
+  _(Under Review)_ [Code](https://anonymous.4open.science/r/Text-Driven-CFP-Generator)
+  
+  <div style="overflow: hidden;">
+    <img src="/junzhin-homepage/assets/img/retina_logos.png" alt="RetinaLogos" style="float: left; margin-right: 20px; width: 150px;">
+    
+    <div class="text-justified">
+      The scarcity of high-quality, labelled retinal imaging data presents a significant challenge in the development of machine learning models for ophthalmology. To address this, we introduce RetinaLogos-1400k, a large-scale synthetic Caption-CFP dataset with 1.4 million entries that uses large language models to describe retinal conditions and key structures. Based on this dataset, we employ a novel three-step training framework that enables fine-grained semantic control over retinal images and accurately captures different stages of disease progression and anatomical variations. Extensive experiments show that 62.07% of our text-driven synthetic images are indistinguishable from real ones by ophthalmologists, and the synthetic data improves accuracy by 10%-25% in diabetic retinopathy grading and glaucoma detection.
+    </div>
+  </div>
+  
+  <div style="clear: both;"></div>
 
 - **UNVEILING THE CAPABILITIES OF LATENT DIFFUSION MODELS FOR CLASSIFICATION OF LUNG DISEASES IN CHEST X-RAYS**  
   _(Submission Under Review)_ ISBI 2025 [Paper](https://junzhin.github.io/junzhin-homepage/)
@@ -97,7 +112,7 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
     This project explores how deep generative models can go beyond traditional data augmentation in medical imaging by uncovering and demonstrating clinical patterns within medical images. By integrating clinical data and segmentation masks, we guide the image synthesis process, transforming tabular clinical data into textual descriptions for easier interpretation. Our approach leverages large pre-trained vision-language models to capture relationships between clinical information and images, enabling more precise visualization of complex conditions. This method, applicable to both GAN-based and diffusion models, offers new potential for early detection and visualization of subtle clinical attributes in medical images.
     <div>
   <div> 
-
+The guys
 
   <div style="clear: both;"></div>
 
