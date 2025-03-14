@@ -45,10 +45,11 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
 
 ## Employment and Research Experience
 
-- (Oct 2023 - Oct 2024) **Research Graduate Assistant** – Imperial College London
-- (Aug 2022 - Jun 2023) **Research Undergraduate Assistant** – Trustworthy Machine Learning Lab, University of Sydney
-- (Nov 2022 - Jan 2023) **Software Engineering Intern** – Guangzhou Junrui Kang Biotechnology
-- (Dec 2021 - Jun 2022) **Research Undergraduate Assistant** – University of Melbourne
+- (Nov 2024 - Present) **Research Assistant** – Shanghai AI Lab, Shanghai, China
+- (Oct 2023 - Oct 2024) **Research Graduate Assistant** – Imperial College London, London, UK
+- (Aug 2022 - Jun 2023) **Research Undergraduate Assistant** – Trustworthy Machine Learning Lab, University of Sydney, Sydney, Australia
+- (Nov 2022 - Jan 2023) **Software Engineering Intern** – Guangzhou Junrui Kang Biotechnology, Guangzhou, China
+- (Dec 2021 - Jun 2022) **Research Undergraduate Assistant** – University of Melbourne, Melbourne, Australia
 
 
 
@@ -103,7 +104,7 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
   
 
 
-- **Deep Generative Models Unveil Patterns in Medical Images Through Vision- “Language” Conditioning**  
+- **Deep Generative Models Unveil Patterns in Medical Images Through Vision- "Language" Conditioning**  
   _AIM-FM Workshop (NeurIPS'24)_ [Code](https://github.com/junzhin/DGM-VLC) [Paper](http://arxiv.org/abs/2410.13823)
   
   <div style="overflow: hidden;">
