@@ -60,6 +60,7 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
   _NeurIPS 2025, Co-author, Under Review_
   
   <div style="overflow: hidden;">
+   <img src="/junzhin-homepage/assets/img/mask2ct.png" alt="Deep Generative Models" style="float: left; margin-right: 20px; width: 150px;">
     <div class="text-justified">
       Recent advances in general medical AI have made significant strides, but existing models often lack the reasoning capabilities needed for complex medical decision-making. This paper presents GMAI-VL-R1, a multimodal medical reasoning model enhanced by reinforcement learning (RL) to improve its reasoning abilities. Through iterative training, GMAI-VL-R1 optimizes decision-making, significantly boosting diagnostic accuracy and clinical support. We also develop a reasoning data synthesis method, generating step-by-step reasoning data via rejection sampling, which further enhances the model's generalization. Experimental results show that after RL training, GMAI-VL-R1 excels in tasks such as medical image diagnosis and visual question answering. While the model demonstrates basic memorization with supervised fine-tuning, RL is crucial for true generalization. Our work establishes new evaluation benchmarks and paves the way for future advancements in medical reasoning models. Code, data, and model will be released.
     </div>
@@ -71,6 +72,7 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
   _MICCAI 2025, First author, Rebuttal_ [Code](https://anonymous.4open.science/r/Text-Driven-CFP-Generator)
   
   <div style="overflow: hidden;">
+  
     <img src="/junzhin-homepage/assets/img/retina_logos.png" alt="RetinaLogos" style="float: left; margin-right: 20px; width: 150px;">
     
     <div class="text-justified">
@@ -84,6 +86,7 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
   _MICCAI 2025, Co-author, Early Accepted_
   
   <div style="overflow: hidden;">
+   <img src="/junzhin-homepage/assets/img/mask2ct.png" alt="Deep Generative Models" style="float: left; margin-right: 20px; width: 150px;">
     <div class="text-justified">
       In ophthalmic surgery, developing an AI system capable of interpreting surgical videos and predicting subsequent operations requires numerous ophthalmic surgical videos with high-quality annotations, which are difficult to collect due to privacy concerns and labor consumption. Text-guided video generation (T2V) emerges as a promising solution to overcome this issue by generating ophthalmic surgical videos based on surgeon instructions. In this paper, we present Ophora, a pioneering model that can generate ophthalmic surgical videos following natural language instructions. To construct Ophora, we first propose a Comprehensive Data Curation pipeline to convert narrative ophthalmic surgical videos into a large-scale, high-quality dataset comprising over 160K video-instruction pairs, Ophora-160K. Then, we propose a Progressive Video-Instruction Tuning scheme to transfer rich spatial-temporal knowledge from a T2V model pre-trained on natural video-text datasets for privacy-preserved ophthalmic surgical video generation based on Ophora-160K. Experiments on video quality evaluation via quantitative analysis and ophthalmologist feedback demonstrate that Ophora can generate realistic and reliable ophthalmic surgical videos based on surgeon instructions.
     </div>
@@ -106,6 +109,7 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
   _MICCAI 2025, Co-author, Early Accepted_
   
   <div style="overflow: hidden;">
+   <img src="/junzhin-homepage/assets/img/mask2ct.png" alt="Deep Generative Models" style="float: left; margin-right: 20px; width: 150px;">
     <div class="text-justified">
       Multi-modal Magnetic Resonance Imaging (MRI) translation leverages information from source MRI sequences to generate target modalities, enabling comprehensive diagnosis while overcoming the limitations of acquiring all sequences. While existing deep-learning-based multi-modal MRI translation methods have shown promising potential, they still face two key challenges: 1) lack of reliable uncertainty quantification for synthesized images, and 2) limited robustness when deployed across different medical centers. To address these challenges, we propose a novel framework that reformulates multi-modal MRI translation as a multi-modal evidential regression problem with distribution calibration. Our approach incorporates two key components: 1) an evidential regression module that estimates uncertainties from different source modalities and an explicit distribution mixture strategy for transparent multi-modal fusion, and 2) a distribution calibration mechanism that adapts to source-target mapping shifts to ensure consistent performance across different medical centers. Extensive experiments on three datasets from the BraTS2023 challenge demonstrate that our framework achieves superior performance and robustness across domains.
     </div>
