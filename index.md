@@ -56,8 +56,19 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
 
 ## Selected Publication and Research Work
 
+- **GMAI-VL-R1: Harnessing Reinforcement Learning for Multimodal Medical Reasoning**  
+  _NeurIPS 2025, Co-author, Under Review_
+  
+  <div style="overflow: hidden;">
+    <div class="text-justified">
+      Recent advances in general medical AI have made significant strides, but existing models often lack the reasoning capabilities needed for complex medical decision-making. This paper presents GMAI-VL-R1, a multimodal medical reasoning model enhanced by reinforcement learning (RL) to improve its reasoning abilities. Through iterative training, GMAI-VL-R1 optimizes decision-making, significantly boosting diagnostic accuracy and clinical support. We also develop a reasoning data synthesis method, generating step-by-step reasoning data via rejection sampling, which further enhances the model's generalization. Experimental results show that after RL training, GMAI-VL-R1 excels in tasks such as medical image diagnosis and visual question answering. While the model demonstrates basic memorization with supervised fine-tuning, RL is crucial for true generalization. Our work establishes new evaluation benchmarks and paves the way for future advancements in medical reasoning models. Code, data, and model will be released.
+    </div>
+  </div>
+  
+  <div style="clear: both;"></div>
+
 - **RetinaLogos: Fine-Grained Synthesis of High-Resolution Retinal Images Through Captions**  
-  _(Under Review)_ [Code](https://anonymous.4open.science/r/Text-Driven-CFP-Generator)
+  _MICCAI 2025, First author, Rebuttal_ [Code](https://anonymous.4open.science/r/Text-Driven-CFP-Generator)
   
   <div style="overflow: hidden;">
     <img src="/junzhin-homepage/assets/img/retina_logos.png" alt="RetinaLogos" style="float: left; margin-right: 20px; width: 150px;">
@@ -69,8 +80,59 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
   
   <div style="clear: both;"></div>
 
+- **Ophora: A Large-Scale Data-Driven Text-Guided Ophthalmic Surgical Video Generation Model**  
+  _MICCAI 2025, Co-author, Early Accepted_
+  
+  <div style="overflow: hidden;">
+    <div class="text-justified">
+      In ophthalmic surgery, developing an AI system capable of interpreting surgical videos and predicting subsequent operations requires numerous ophthalmic surgical videos with high-quality annotations, which are difficult to collect due to privacy concerns and labor consumption. Text-guided video generation (T2V) emerges as a promising solution to overcome this issue by generating ophthalmic surgical videos based on surgeon instructions. In this paper, we present Ophora, a pioneering model that can generate ophthalmic surgical videos following natural language instructions. To construct Ophora, we first propose a Comprehensive Data Curation pipeline to convert narrative ophthalmic surgical videos into a large-scale, high-quality dataset comprising over 160K video-instruction pairs, Ophora-160K. Then, we propose a Progressive Video-Instruction Tuning scheme to transfer rich spatial-temporal knowledge from a T2V model pre-trained on natural video-text datasets for privacy-preserved ophthalmic surgical video generation based on Ophora-160K. Experiments on video quality evaluation via quantitative analysis and ophthalmologist feedback demonstrate that Ophora can generate realistic and reliable ophthalmic surgical videos based on surgeon instructions.
+    </div>
+  </div>
+  
+  <div style="clear: both;"></div>
+
+- **Advancing Medical Image Grounding via Spatial-Semantic Rewarded Group Relative Policy Optimization**  
+  _MICCAI 2025, Co-author, Early Accepted_
+  
+  <div style="overflow: hidden;">
+    <div class="text-justified">
+      Medical Image Grounding (MIG), which involves localizing specific regions in medical images based on textual descriptions, requires models to not only perceive regions but also deduce spatial relationship of these regions. Existing Vision-Language Models (VLMs) for MIG often rely on Supervised Fine-Tuning (SFT) with large amounts of Chain-of-Thought (CoT) reasoning annotations, which are expensive and time-consuming to acquire. Recently, DeepSeek-R1 demonstrated that Large Language Models (LLMs) can acquire reasoning abilities through Group Relative Policy Optimization (GRPO) without requiring CoT annotations. In this paper, we adapt the GRPO reinforcement learning framework to VLMs for Medical Image Grounding. We propose the Spatial-Semantic Rewarded Group Relative Policy Optimization to train the model without CoT reasoning annotations. Specifically, we introduce Spatial-Semantic Rewards, which combine spatial accuracy reward and semantic consistency reward to provide nuanced feedback for both spatially positive and negative completions. Additionally, we propose to use the Chain-of-Box template, which integrates visual information of referring bounding boxes into the <think> reasoning process, enabling the model to explicitly reason about spatial regions during intermediate steps. Experiments on three datasets MS-CXR, ChestX-ray8, and M3D-RefSeg—demonstrate that our method achieves state-of-the-art performance in Medical Image Grounding.
+    </div>
+  </div>
+  
+  <div style="clear: both;"></div>
+
+- **Multi-modal MRI Translation via Evidential Regression and Distribution Calibration**  
+  _MICCAI 2025, Co-author, Early Accepted_
+  
+  <div style="overflow: hidden;">
+    <div class="text-justified">
+      Multi-modal Magnetic Resonance Imaging (MRI) translation leverages information from source MRI sequences to generate target modalities, enabling comprehensive diagnosis while overcoming the limitations of acquiring all sequences. While existing deep-learning-based multi-modal MRI translation methods have shown promising potential, they still face two key challenges: 1) lack of reliable uncertainty quantification for synthesized images, and 2) limited robustness when deployed across different medical centers. To address these challenges, we propose a novel framework that reformulates multi-modal MRI translation as a multi-modal evidential regression problem with distribution calibration. Our approach incorporates two key components: 1) an evidential regression module that estimates uncertainties from different source modalities and an explicit distribution mixture strategy for transparent multi-modal fusion, and 2) a distribution calibration mechanism that adapts to source-target mapping shifts to ensure consistent performance across different medical centers. Extensive experiments on three datasets from the BraTS2023 challenge demonstrate that our framework achieves superior performance and robustness across domains.
+    </div>
+  </div>
+  
+  <div style="clear: both;"></div>
+
+- **Deep Generative Models Unveil Patterns in Medical Images Through Vision-Language Conditioning**  
+  _AIM-FM Workshop at NeurIPS'24, First co-author, Oral Presentation, Accepted and In Press_ [Code](https://github.com/junzhin/DGM-VLC) [Paper](http://arxiv.org/abs/2410.13823)
+  
+  <div style="overflow: hidden;">
+    <img src="/junzhin-homepage/assets/img/mask2ct.png" alt="Deep Generative Models" style="float: left; margin-right: 20px; width: 150px;">
+    <div class="text-justified">
+    This project explores how deep generative models can go beyond traditional data augmentation in medical imaging by uncovering and demonstrating clinical patterns within medical images. By integrating clinical data and segmentation masks, we guide the image synthesis process, transforming tabular clinical data into textual descriptions for easier interpretation. Our approach leverages large pre-trained vision-language models to capture relationships between clinical information and images, enabling more precise visualization of complex conditions. This method, applicable to both GAN-based and diffusion models, offers new potential for early detection and visualization of subtle clinical attributes in medical images.
+    <div>
+  <div> 
+
+  <div style="clear: both;"></div>
+
+- **DMRN: A Dynamical Multiorder Response Network for Robust Lung Airway Segmentation**  
+  _WACV 2025, Co-author, Accepted and In Press_
+  
+- **Decoding Report Generators: Cyclic Vision-Language Adapter for Counterfactual Explanations**  
+  _IJCAI 2025, Co-author, Accepted_
+  
 - **UNVEILING THE CAPABILITIES OF LATENT DIFFUSION MODELS FOR CLASSIFICATION OF LUNG DISEASES IN CHEST X-RAYS**  
-  _(Submission Under Review)_ ISBI 2025 [Paper](https://junzhin.github.io/junzhin-homepage/)
+  _ISBI 2025, First author, Accepted_ 
   
   <div style="overflow: hidden;">
     <img src="/junzhin-homepage/assets/img/latent_diffusion_cxr.png" alt="Latent Diffusion Models for CXR Classification" style="float: left; margin-right: 20px; width: 150px;">
@@ -83,14 +145,14 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
   <div style="clear: both;"></div>
 
 - **ARMUT-LOR: Adaptive Region-aware Masked Unpaired Translation for Lung Opacity Removal in Chest X-rays**  
-  _(Master's Thesis)_ [Thesis](https://drive.google.com/file/d/1Ue34uFvl31JfXWE4U1YgNUjGLe6b0SDd/view?usp=sharing)
+  _Master Research Project, Imperial College London, First author_ [Thesis](https://drive.google.com/file/d/1Ue34uFvl31JfXWE4U1YgNUjGLe6b0SDd/view?usp=sharing)
   
   <img src="/junzhin-homepage/assets/img/imperial.png" alt="ARMUT-LOR" style="float: left; margin-right: 20px; width: 150px;">
   
   <div style="clear: both;"></div>
 
-- **Unpaired Translation of Chest X-ray Images for Lung Opacity Diagnosis via Adaptive Activation Mask**  
-  _(Under Review)_  [Graphical Abstract](https://drive.google.com/file/d/1337JIJPOp26r9chK91QP5FJkll67aT7-/view?usp=drive_link)  
+- **Unpaired Translation of Chest X-ray Images for Lung Opacity Diagnosis via Adaptive Activation Masks**  
+  _Pattern Recognition Letters, First author, Accepted_ [Graphical Abstract](https://drive.google.com/file/d/1337JIJPOp26r9chK91QP5FJkll67aT7-/view?usp=drive_link)  
   
   <div style="overflow: hidden;">
     <img src="/junzhin-homepage/assets/img/cxr_lung_opacity.png" alt="Unpaired Translation" style="float: left; margin-right: 20px; width: 150px;">
@@ -101,23 +163,12 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
   <div>
 
   <div style="clear: both;"></div>
-  
 
-
-- **Deep Generative Models Unveil Patterns in Medical Images Through Vision- "Language" Conditioning**  
-  _AIM-FM Workshop (NeurIPS'24)_ [Code](https://github.com/junzhin/DGM-VLC) [Paper](http://arxiv.org/abs/2410.13823)
-  
-  <div style="overflow: hidden;">
-    <img src="/junzhin-homepage/assets/img/mask2ct.png" alt="Deep Generative Models" style="float: left; margin-right: 20px; width: 150px;">
-    <div class="text-justified">
-    This project explores how deep generative models can go beyond traditional data augmentation in medical imaging by uncovering and demonstrating clinical patterns within medical images. By integrating clinical data and segmentation masks, we guide the image synthesis process, transforming tabular clinical data into textual descriptions for easier interpretation. Our approach leverages large pre-trained vision-language models to capture relationships between clinical information and images, enabling more precise visualization of complex conditions. This method, applicable to both GAN-based and diffusion models, offers new potential for early detection and visualization of subtle clinical attributes in medical images.
-    <div>
-  <div> 
-
-  <div style="clear: both;"></div>
+- **Anatomy-Guided Radiology Report Generation with Pathology-Aware Regional Prompts**  
+  _JBHI 2024, Co-author, Under Review_
 
 - **Enhancing Night-to-Day Image Translation with Semantic Prior and Reference Image Guidance**  
-  _Australasian Database Conference (ADC 2023)_ [Link](https://link.springer.com/chapter/10.1007/978-3-031-47843-7_12), [Slides](https://drive.google.com/file/d/1gfHnrjvkWIF_IKdZ749TUwpAdwDYwy05/view?usp=drive_link)  
+  _Australasian Database Conference (ADC 2023), First author_ [Link](https://link.springer.com/chapter/10.1007/978-3-031-47843-7_12), [Slides](https://drive.google.com/file/d/1gfHnrjvkWIF_IKdZ749TUwpAdwDYwy05/view?usp=drive_link)  
   
   <div style="overflow: hidden;">
   
