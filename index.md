@@ -60,7 +60,7 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
   _NeurIPS 2025, Co-author, Under Review_
   
   <div style="overflow: hidden;">
-   <img src="/junzhin-homepage/assets/img/mask2ct.png" alt="Deep Generative Models" style="float: left; margin-right: 20px; width: 150px;">
+   <img src="/junzhin-homepage/assets/img/GMAI_R1.png" alt="Deep Generative Models" style="float: left; margin-right: 20px; width: 150px;">
     <div class="text-justified">
       Recent advances in general medical AI have made significant strides, but existing models often lack the reasoning capabilities needed for complex medical decision-making. This paper presents GMAI-VL-R1, a multimodal medical reasoning model enhanced by reinforcement learning (RL) to improve its reasoning abilities. Through iterative training, GMAI-VL-R1 optimizes decision-making, significantly boosting diagnostic accuracy and clinical support. We also develop a reasoning data synthesis method, generating step-by-step reasoning data via rejection sampling, which further enhances the model's generalization. Experimental results show that after RL training, GMAI-VL-R1 excels in tasks such as medical image diagnosis and visual question answering. While the model demonstrates basic memorization with supervised fine-tuning, RL is crucial for true generalization. Our work establishes new evaluation benchmarks and paves the way for future advancements in medical reasoning models. Code, data, and model will be released.
     </div>
@@ -69,7 +69,7 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
   <div style="clear: both;"></div>
 
 - **RetinaLogos: Fine-Grained Synthesis of High-Resolution Retinal Images Through Captions**  
-  _MICCAI 2025, First author, Rebuttal_ [Code](https://anonymous.4open.science/r/Text-Driven-CFP-Generator)
+  _MICCAI 2025, **First author**, Rebuttal_ [Code](https://anonymous.4open.science/r/Text-Driven-CFP-Generator)
   
   <div style="overflow: hidden;">
   
@@ -86,7 +86,7 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
   _MICCAI 2025, Co-author, Early Accepted_
   
   <div style="overflow: hidden;">
-   <img src="/junzhin-homepage/assets/img/mask2ct.png" alt="Deep Generative Models" style="float: left; margin-right: 20px; width: 150px;">
+   <img src="/junzhin-homepage/assets/img/surgical_ophora.png" alt="Deep Generative Models" style="float: left; margin-right: 20px; width: 150px;">
     <div class="text-justified">
       In ophthalmic surgery, developing an AI system capable of interpreting surgical videos and predicting subsequent operations requires numerous ophthalmic surgical videos with high-quality annotations, which are difficult to collect due to privacy concerns and labor consumption. Text-guided video generation (T2V) emerges as a promising solution to overcome this issue by generating ophthalmic surgical videos based on surgeon instructions. In this paper, we present Ophora, a pioneering model that can generate ophthalmic surgical videos following natural language instructions. To construct Ophora, we first propose a Comprehensive Data Curation pipeline to convert narrative ophthalmic surgical videos into a large-scale, high-quality dataset comprising over 160K video-instruction pairs, Ophora-160K. Then, we propose a Progressive Video-Instruction Tuning scheme to transfer rich spatial-temporal knowledge from a T2V model pre-trained on natural video-text datasets for privacy-preserved ophthalmic surgical video generation based on Ophora-160K. Experiments on video quality evaluation via quantitative analysis and ophthalmologist feedback demonstrate that Ophora can generate realistic and reliable ophthalmic surgical videos based on surgeon instructions.
     </div>
@@ -98,6 +98,7 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
   _MICCAI 2025, Co-author, Early Accepted_
   
   <div style="overflow: hidden;">
+   <img src="/junzhin-homepage/assets/img/spatial_reward_r1_cxr.png" alt="Deep Generative Models" style="float: left; margin-right: 20px; width: 150px;">
     <div class="text-justified">
       Medical Image Grounding (MIG), which involves localizing specific regions in medical images based on textual descriptions, requires models to not only perceive regions but also deduce spatial relationship of these regions. Existing Vision-Language Models (VLMs) for MIG often rely on Supervised Fine-Tuning (SFT) with large amounts of Chain-of-Thought (CoT) reasoning annotations, which are expensive and time-consuming to acquire. Recently, DeepSeek-R1 demonstrated that Large Language Models (LLMs) can acquire reasoning abilities through Group Relative Policy Optimization (GRPO) without requiring CoT annotations. In this paper, we adapt the GRPO reinforcement learning framework to VLMs for Medical Image Grounding. We propose the Spatial-Semantic Rewarded Group Relative Policy Optimization to train the model without CoT reasoning annotations. Specifically, we introduce Spatial-Semantic Rewards, which combine spatial accuracy reward and semantic consistency reward to provide nuanced feedback for both spatially positive and negative completions. Additionally, we propose to use the Chain-of-Box template, which integrates visual information of referring bounding boxes into the <think> reasoning process, enabling the model to explicitly reason about spatial regions during intermediate steps. Experiments on three datasets MS-CXR, ChestX-ray8, and M3D-RefSeg—demonstrate that our method achieves state-of-the-art performance in Medical Image Grounding.
     </div>
@@ -109,7 +110,7 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
   _MICCAI 2025, Co-author, Early Accepted_
   
   <div style="overflow: hidden;">
-   <img src="/junzhin-homepage/assets/img/mask2ct.png" alt="Deep Generative Models" style="float: left; margin-right: 20px; width: 150px;">
+   <img src="/junzhin-homepage/assets/img/multi-model_mri.png" alt="Deep Generative Models" style="float: left; margin-right: 20px; width: 150px;">
     <div class="text-justified">
       Multi-modal Magnetic Resonance Imaging (MRI) translation leverages information from source MRI sequences to generate target modalities, enabling comprehensive diagnosis while overcoming the limitations of acquiring all sequences. While existing deep-learning-based multi-modal MRI translation methods have shown promising potential, they still face two key challenges: 1) lack of reliable uncertainty quantification for synthesized images, and 2) limited robustness when deployed across different medical centers. To address these challenges, we propose a novel framework that reformulates multi-modal MRI translation as a multi-modal evidential regression problem with distribution calibration. Our approach incorporates two key components: 1) an evidential regression module that estimates uncertainties from different source modalities and an explicit distribution mixture strategy for transparent multi-modal fusion, and 2) a distribution calibration mechanism that adapts to source-target mapping shifts to ensure consistent performance across different medical centers. Extensive experiments on three datasets from the BraTS2023 challenge demonstrate that our framework achieves superior performance and robustness across domains.
     </div>
@@ -131,12 +132,24 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
 
 - **DMRN: A Dynamical Multiorder Response Network for Robust Lung Airway Segmentation**  
   _WACV 2025, Co-author, Accepted and In Press_
+    <div style="overflow: hidden;">
+    <img src="/junzhin-homepage/assets/img/DMRN.png" alt="Deep Generative Models" style="float: left; margin-right: 20px; width: 150px;">
+      <div class="text-justified">
+       Automated airway segmentation in CT images is crucial for lung disease diagnosis. However, manual annotation scarcity hinders supervised learning efficacy, while unlimited intensities and sample imbalance lead to discontinuity and false-negative issues. To address these challenges, we propose a novel airway segmentation model named Dynamical Multi-order Response Network (DMRN), integrating unsupervised and supervised learning in parallel to alleviate the label scarcity of airway. In the unsupervised branch, we propose several novel strategies of Dynamic Mask-Ratio (DMR) to enable the model to perceive context information of varying sizes, mimicking the laws of human learning; we also present a novel target of Multi-Order Normalized Responses (MONR), exploiting the distinct order exponential operation of raw images and oriented gradients to enhance the textural representations of bronchioles. For the supervised branch, we directly predict the final full segmentation map by the large-ratio cube-masked input instead of full input. Ultimately, we verify the method's performance and robustness by training on normal lung disease datasets, while testing on lung cancer, COVID-19, and lung fibrosis datasets. All experimental results prove that our method exceeds state-of-the-art methods significantly. Code will be released in the future.
+      <div>
+    <div> 
   
 - **Decoding Report Generators: Cyclic Vision-Language Adapter for Counterfactual Explanations**  
   _IJCAI 2025, Co-author, Accepted_
+      <div style="overflow: hidden;">
+    <img src="/junzhin-homepage/assets/img/Cyclic_Vision_LanguageManipulator.png" alt="Deep Generative Models" style="float: left; margin-right: 20px; width: 150px;">
+      <div class="text-justified">
+        Despite significant advancements in report generation methods, a critical limitation remains: the lack of interpretability in the generated text. This paper introduces an innovative approach to enhance the explainability of text generated by report generation models. Our method employs cyclic text manipulation and visual comparison to identify and elucidate the features in the original content that influence the generated text. By manipulating the generated reports and producing corresponding images, we create a comparative framework that highlights key attributes and their impact on the text generation process. This approach not only identifies the image features aligned to the generated text but also improves transparency but also provides deeper insights into the decision-making mechanisms of the report generation models. Our findings demonstrate the potential of this method to significantly enhance the interpretability and transparency of AI-generated reports.
+      <div>
+    <div> 
   
 - **UNVEILING THE CAPABILITIES OF LATENT DIFFUSION MODELS FOR CLASSIFICATION OF LUNG DISEASES IN CHEST X-RAYS**  
-  _ISBI 2025, First author, Accepted_ 
+  _ISBI 2025,** First author**, Accepted_ 
   
   <div style="overflow: hidden;">
     <img src="/junzhin-homepage/assets/img/latent_diffusion_cxr.png" alt="Latent Diffusion Models for CXR Classification" style="float: left; margin-right: 20px; width: 150px;">
