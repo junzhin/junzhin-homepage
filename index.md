@@ -69,7 +69,7 @@ _"Positivity is the essence of progress. In every challenge, I see an opportunit
   <div style="clear: both;"></div>
 
 - **RetinaLogos: Fine-Grained Synthesis of High-Resolution Retinal Images Through Captions**  
-  _MICCAI 2025, **First author**, Rebuttal_ [Code](https://anonymous.4open.science/r/Text-Driven-CFP-Generator)
+  _MICCAI 2025, **First author**, Accepted [Code](https://anonymous.4open.science/r/Text-Driven-CFP-Generator)
   
   <div style="overflow: hidden;">
   
